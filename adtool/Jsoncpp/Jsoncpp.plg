@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Jsoncpp - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP644F.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_MBCS" /D "_LIB" /D "_AFXDLL" /Fp"Release/Jsoncpp.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\SVN\BaseProc\Jsoncpp\json_reader.cpp"
+"F:\SVN\BaseProc\Jsoncpp\json_value.cpp"
+"F:\SVN\BaseProc\Jsoncpp\json_writer.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP644F.tmp" 
+Creating command line "link.exe -lib /nologo /out:"../lib/Jsoncpp.lib"  .\Release\json_reader.obj .\Release\json_value.obj .\Release\json_writer.obj "
+<h3>Output Window</h3>
+Compiling...
+json_reader.cpp
+json_value.cpp
+json_writer.cpp
+Creating library...
+
+
+
+<h3>Results</h3>
+Jsoncpp.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "adtest", "adtest\adtest.vcxproj", "{E7ED7406-864A-4DC5-9D8A-085C95DBEEFC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jsoncpp", "Jsoncpp\Jsoncpp.vcxproj", "{2C05970A-1461-0CEF-59FD-16543643FA7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7ED7406-864A-4DC5-9D8A-085C95DBEEFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7ED7406-864A-4DC5-9D8A-085C95DBEEFC}.Debug|Win32.Build.0 = Debug|Win32
+		{E7ED7406-864A-4DC5-9D8A-085C95DBEEFC}.Release|Win32.ActiveCfg = Release|Win32
+		{E7ED7406-864A-4DC5-9D8A-085C95DBEEFC}.Release|Win32.Build.0 = Release|Win32
+		{E7ED7406-864A-4DC5-9D8A-085C95DBEEFC}.Template|Win32.ActiveCfg = Release|Win32
+		{E7ED7406-864A-4DC5-9D8A-085C95DBEEFC}.Template|Win32.Build.0 = Release|Win32
+		{2C05970A-1461-0CEF-59FD-16543643FA7A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2C05970A-1461-0CEF-59FD-16543643FA7A}.Debug|Win32.Build.0 = Debug|Win32
+		{2C05970A-1461-0CEF-59FD-16543643FA7A}.Release|Win32.ActiveCfg = Release|Win32
+		{2C05970A-1461-0CEF-59FD-16543643FA7A}.Release|Win32.Build.0 = Release|Win32
+		{2C05970A-1461-0CEF-59FD-16543643FA7A}.Template|Win32.ActiveCfg = Template|Win32
+		{2C05970A-1461-0CEF-59FD-16543643FA7A}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
